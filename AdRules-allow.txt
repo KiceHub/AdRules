@@ -1,0 +1,7 @@
+! [AdGuard Home]
+! Title: AdRules-allow (For DNS)
+! This is a allow list.
+! Revise: K - 2023-01-02
+@@||7x24s.com^
+!@@||adsh.wagbridge.taobao.alimama.com^
+!@@||events.baidu.com^

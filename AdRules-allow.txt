@@ -3,6 +3,6 @@
 ! This is a allow list.
 ! Revise: K - 2023-10-31
 @@||7x24s.com^
-@@||trackercdnbj.kugou.com
+@@||trackercdnbj.kugou.com^
 !@@||adsh.wagbridge.taobao.alimama.com^
 !@@||events.baidu.com^

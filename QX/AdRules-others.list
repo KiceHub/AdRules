@@ -26,4 +26,4 @@ DOMAIN-SUFFIX,lc.map.baidu.com,REJECT
 DOMAIN-SUFFIX,sentry.io,REJECT
 
 # 其他
-host,msmp.abchina.com.cn,REJECT
+DOMAIN,msmp.abchina.com.cn,REJECT
